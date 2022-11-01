@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Om Singh](mailto:om.singh@owasp.org)
+* [Pankaj Yadav](mailto:pankaj.yadav@owasp.org)
+* [Shivam Yadav](mailto:shivam.yadav@owasp.org)
