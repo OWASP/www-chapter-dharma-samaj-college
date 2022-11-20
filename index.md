@@ -10,7 +10,7 @@ meetup-group:
 
 <div style='color:red;'>
 <h1 style="color:blue;"> Welcome to Aligarh OWASP chapter</h>
-<img alt="coding" width="400" src="https://nkrider7.github.io/os/assets/img/event1.jpg">
+<img alt="coding" width="400" src="https://nkrider7.github.io/os/assets/img/event1.jpg"/>
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
 
