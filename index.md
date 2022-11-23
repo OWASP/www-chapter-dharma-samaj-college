@@ -8,8 +8,8 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
-<h1 style="color:blue;"> Welcome to Aligarh OWASP chapter</h>
+<div>
+<h1 style="color:blue;"> Welcome to Aligarh OWASP chapter 🧭</h>
 <img alt="coding" width="400" src="https://nkrider7.github.io/os/assets/img/event1.jpg"/>
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
@@ -26,7 +26,7 @@ meetup-group:
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Include some <a src="/heelow">all</a> information here about your chapter
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
